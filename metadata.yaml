@@ -1,10 +1,16 @@
 _repo: Anleitung-zur-quantitativen-chemischen-Analyse_47843
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47843-h/images/cover.jpg
 creator:
   author:
     agent_name: Fresenius, C. Remigius
     gutenberg_agent_id: '44497'
     url: http://www.gutenberg.org/2009/agents/44497
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47843#Anleitung-zur-quantitativen-chemischen-Analyse
 gutenberg_issued: '2015-01-01'
 gutenberg_type: Text
 identifiers:
